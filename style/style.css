@@ -16,9 +16,9 @@ html{
 	color:#EAC100;
 
 }
-  p {
+p{
     font-size: 24px;
-  }
+}
 }
 @media (min-width: 800px) {
  html{
