@@ -5,6 +5,33 @@ html{
 	
 	background-color: #54A3D8;
 }
+
+@media (min-width: 400px) {
+ html{
+	
+	background-color: #000000;
+	text-align: center;
+}
+*{
+	color:#EAC100;
+
+}
+  p {
+    font-size: 24px;
+  }
+}
+@media (min-width: 800px) {
+ html{
+	background-color: #54A3D8;
+	text-align: left;
+}
+*{
+	color:black;
+}
+  p {
+    font-size: 20px;
+  }
+}
     .btn_up {
         position: fixed;
         top: 45%;
